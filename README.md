@@ -1,4 +1,14 @@
-## Hi there 👋
+Hello!
+
+I'm an undergrad student at Arizona State University majoring in Computer Science. 
+My long term goal is to become a Cyber Security specialist with clearance. 
+Currently, I want to learn ethical hacking. 
+Do I know a great track for doing that yet? 
+No. 
+But I'm bouncing around the internet trying to learn. 
+
+GitHub is one of the coolest things the internet has ever done.
+I'm grateful that there are parts of the internet that are still cool. 
 
 <!--
 **hrudabaga/hrudabaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
